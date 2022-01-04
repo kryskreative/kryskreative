@@ -4,29 +4,69 @@ Welcome to my personal repository. This document is a work in progress. Below yo
 
 ### I. A Little Bit About the Girl Behind the Curls
 
-### II. Annual Theme
+### II. Contributors to My Growth
 
-### III. Goals
-
-  A. Learning
+  A. Professionally
   
-  B. Professional
-  
-### IV. What I Am Working On
+   1. Teams
+    
+   * FORWARD Florida Media  
+   * Code for Orlando and the Code for America Brigade Network
+   * Additional Financial Arena
+   * Elar Institute
+   * NTF
+   * Leo Aether Music 
+    
+   2. Education/Certifications
 
-  A. Currently
+   * University of Central Florida
+   * HubSpot
+   * Google Analytics Academy
+   * International Baccalaureate Programme
   
-  B. Previously
+  B. Personally    
 
-### V. You Can Lean On Me To
+### III. My Why
+
+  A. Annual Theme
+  
+   1. 2021 - Balance
+  
+  B. Goals
+    
+   1. Professional
+   2. Personal
+  
+### IV. You Can Lean On Me For
+
+  A. Values
+  
+   1. Curiosity
+   2. Collaboration
+   3. Play
+   4. Sustainability
+  
+  B. Skills
+
+### V. Word on the Street
+
+  A. Currently Explorations
+  
+   1. Elar Institute Connective Communication Program
+   2. Google Analytics Qualification Certification
+   3. Community Organizing 
+  
+  B. Previous Adventures
+  
+   1. Writing
+   2. Speaking 
 
 ### VI. How to Support Me
-  A. As a Person
+  A. Working Together
   
-  B. Working Together
+  B. As a Person
 
-### VII. How to Collaborate
-### VIII. Get in Touch
+### VII. Get in Touch
 
   A. Feedback
   
